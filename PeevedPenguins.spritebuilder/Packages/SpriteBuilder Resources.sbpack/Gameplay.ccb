@@ -258,8 +258,8 @@
 										<string>Position</string>
 										<key>value</key>
 										<array>
+											<real>12</real>
 											<real>0.0</real>
-											<real>-3</real>
 											<integer>0</integer>
 											<integer>0</integer>
 											<integer>0</integer>
@@ -1219,7 +1219,7 @@
 				<string>Size</string>
 				<key>value</key>
 				<array>
-					<real>568</real>
+					<real>960</real>
 					<real>320</real>
 					<integer>0</integer>
 					<integer>0</integer>
